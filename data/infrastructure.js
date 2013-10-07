@@ -1,0 +1,1 @@
+{"displayFieldName":"","fieldAliases":{"OBJECTID":"OBJECTID","FREQUENCY":"FREQUENCY","CIKR_Type":"CIKR_Type"},"fields":[{"name":"OBJECTID","type":"esriFieldTypeOID","alias":"OBJECTID"},{"name":"FREQUENCY","type":"esriFieldTypeInteger","alias":"FREQUENCY"},{"name":"CIKR_Type","type":"esriFieldTypeString","alias":"CIKR_Type","length":50}],"features":[]}
